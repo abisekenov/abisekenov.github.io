@@ -24,7 +24,7 @@ cv:
   sections:
     Education:
       - institution: Xi'an Jiaotong-Liverpool University
-        location: Suzhou, Jiangsu province, China
+        location: Suzhou, China
         url: https://www.xjtlu.edu.cn/
         area: Physics
         studyType: PhD
@@ -40,6 +40,7 @@ cv:
         location: Astana, Kazakhstan
         url: https://nu.edu.kz/
         area: Physics
+        studyType: Master's degree
         #studyType: Federal teaching diploma
         start_date: 2021
         end_date: 2023
@@ -51,7 +52,8 @@ cv:
       - institution: Aktobe Regional State University
         location: Aktobe, Kazakhstan
         area: Physics
-        studyType: Federal teaching diploma
+        studyType: Bachelor's degree
+        # studyType: Federal teaching diploma
         start_date: 2016
         end_date: 2020
         score: "3.64/4.0"
@@ -62,9 +64,9 @@ cv:
     Experience:
       - company: Energetic Cosmos Laboratory, Nazarbayev University
         position: Research Assistant
-        location: Nazarbayev University, Kazakhstan
-        start_date: June 2022
-        end_date: December 2024
+        location: Astana, Kazakhstan
+        start_date: Jun 2022
+        end_date: Dec 2024
         summary: Worked under supervision of Bekdaulet Shukirgaliyev and Ernazar Abdikamalov on applications of ML techniques on N-body simulations.
         #highlights:
         #  - Relativity
@@ -73,8 +75,8 @@ cv:
       - company: Xi'an Jiaotong-Liverpool University
         position: Research Assistant
         location: Suzhou, Jiangsu province, China
-        start_date: March 2024 
-        end_date: Present
+        start_date: Mar 2024 
+        end_date: Dec 2026
         #highlights:
         #  - Description 1.
         #  - Description 2.
@@ -82,8 +84,8 @@ cv:
       - company: Xi'an Jiaotong-Liverpool University
         position: Teaching Assistant
         location: Suzhou, Jiangsu province, China
-        start_date: March 2024 
-        end_date: June 2026
+        start_date: Mar 2024 
+        end_date: Jun 2026
         #highlights:
         #  - Description 1.
         #  - Description 2.
@@ -103,7 +105,7 @@ cv:
       - title: Master's degree with honors
         #authors:
         #  - "Royal Swedish Academy of Sciences"
-        date: 7th June 2023
+        date: Jun 2023
         awarder: Nazarbayev University
         # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
         # summary: Master'
@@ -111,10 +113,34 @@ cv:
       - title: Deans List
         # authors:
         #   - "German Physical Society"
-        date: September 2023
+        date: Sep 2023
         awarder: Nazarbayev University
         summary: Abylay Bissekenov has been named to the Deans List for his academmic excellence in coursework at the School of Sciences and Humanities, Nazarbayev University
 
+      - title: Excellent Oral and Poster Presentation Awards
+        authors:
+         - "2025 XJTLU Postgraduate Research Symposium"
+        date: Mar 2025
+        awarder: Xi'an Jiaotong-Liverpool University
+        # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        summary: 2025 XJTLU Postgraduate Research Symposium is an academic event since 2019, providing a forum for exchanging and discussing research ideas among doctoral researchers from a wide range of disciplinary areas. 
+
+      - title: Best Poster Presentation Award
+        authors:
+         - "2026 XJTLU Postgraduate Research Symposium"
+        date: Mar 2026
+        awarder: Xi'an Jiaotong-Liverpool University
+        # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        summary: 2026 XJTLU Postgraduate Research Symposium is an academic event since 2019, providing a forum for exchanging and discussing research ideas among doctoral researchers from a wide range of disciplinary areas. 
+
+      - title: Best Oral Presentation Award
+        authors:
+         - "Second XJTU-XJTLU-UoL Doctoral Wisdom Convergence Camp"
+        date: Apr 2026
+        awarder: Xi'an Jiaotong University
+        # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        summary: The XJTU-XJTLU-UoL Doctoral Wisdom Convergence Camp is an annual interdisciplinary academic event co-hosted by Xi'an Jiaotong-Liverpool University (XJTLU), Xi'an Jiaotong University (XJTU), and the University of Liverpool
+    
     Publications:
       - title: Cluster membership analysis with supervised learning and N-body simulations 
         authors:
@@ -125,7 +151,7 @@ cv:
           - Peter Berczik
           - Bekdaulet Shukirgaliyev
         publisher: Astronomy and Astrophysics
-        releaseDate: September 2024
+        releaseDate: Sep 2024
         url: https://ui.adsabs.harvard.edu/abs/2024A&A...689A.282B
         summary: In this paper, we have applied supervised ML algorithms on N-body simulations for membership analysis of star clusters. Random forest model trained on simulations proved to be capable of obtaining membership with good completeness just by astrometric features. 
 
@@ -141,7 +167,7 @@ cv:
           - Abbas Askar
           - Peter Berczik
         publisher: Astronomy and Astrophysics
-        releaseDate: July 2025
+        releaseDate: Jul 2025
         url: https://ui.adsabs.harvard.edu/abs/2025A&A...699A.196B
         summary: In this paper, we have combined Fokker-Plank initial models with N-body simulations in order to simulate clusters with initial bulk rotation. Dynamic evolution of these clusters significantly differ from models without initial rotation with development of bar like structure. The morphology of the models were also compared to 93 observed open clusters.
 
@@ -154,7 +180,7 @@ cv:
           - Mukhagali Kalambay 
           - Peter Berczik
         publisher: The Astrophysical Journal Letters
-        releaseDate: April 2026
+        releaseDate: Apr 2026
         url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1001L..33B
         summary: Continuation of a second paper, but instead of using only hard binaries, we also added soft binaries that tend to be wide. The simulations showed high number of dynamic disruptions and formations of wide binaries. We proposed 2 semi-analytical models of wide binary evolution in star clusters. 
       # - name: Physics
