@@ -12,14 +12,9 @@ cv:
       username: Abylay Bissekenov
     - network: GitHub
       username: abisekenov
-  custom_connections:
+  # custom_connections:
   sections:
-    # Welcome to RenderCV:
-    #   - RenderCV reads a CV written in a YAML file, and generates a PDF with professional typography.
-    #   - Each section title is arbitrary.
-    #   - You can choose any of the 9 entry types for each section.
-    #   - Markdown syntax is supported everywhere. This is **bold**, *italic*, and [link](https://example.com).
-    education:
+    Education:
       - institution: Xi'an Jiaotong-Liverpool University
         area: Physics
         degree: PhD
@@ -54,7 +49,7 @@ cv:
         highlights:
           - 'GPA: 3.64/4.00'
           - Graduated with honors
-    experience:
+    Experience:
       - company: Xi'an Jiaotong-Liverpool University
         position: Research Assistant
         date:
@@ -89,7 +84,7 @@ cv:
         #     - ICML 2022 main conference paper, cited 340+ times within two years
         #     - NeurIPS 2022 workshop paper on emergent communication protocols
         #     - Invited journal extension in JMLR (2023)
-    publications:
+    Publications:
       - title: Formation and Disruption of Wide Binaries in Star Clusters Revealed by N-body Simulations
         authors:
           - Abylay Bissekenov
@@ -131,30 +126,41 @@ cv:
         url: https://ui.adsabs.harvard.edu/abs/2024A&A...689A.282B
         journal: Astronomy and Astrophysics
         date: 2024-09
-    selected_honors:
-      - bullet: MIT Technology Review 35 Under 35 Innovators (2024)
-      - bullet: Forbes 30 Under 30 in Enterprise Technology (2024)
-      - bullet: ACM Doctoral Dissertation Award Honorable Mention (2023)
-      - bullet: Google PhD Fellowship in Machine Learning (2020 – 2023)
-      - bullet: Fulbright Scholarship for Graduate Studies (2018)
+    Conferences and Talks:
+      - bullet: European Astronomical Society Annual Meeting 2026; Lausanne, Switzerland; 2026/06/29-2026/07/04 - K-Poster Presentation
+      - bullet: 1st Silk Road Conference; Tashkent, Uzbekistan; 2026/05/18-2026/05/22 - Contrabuted Presentation
+      - bullet: Structural, Formation and Evolution of Clusters 2026 Annual Symposium; Nanjing, China;2026/04/22-2026/04/26 - Contrabuted Presentation 
+      - bullet: 2nd XJTU-XJTLU-UoL Doctoral Wisdom Convergence Camp; Xi'an, China; 2026/04/17-2026/04/19 - Oral Presentation
+      - bullet: 2026 XJTLU Postgraduate Research Symposium; Suzhou, China; 2026/03/19-2026/03/20 - Oral and Poster Presentation
+      # - bullet: 
+      - bullet: Informal Presentation at Max Plank Institute of Astronomy, 2025/07/29 - Oral Presentation
+      - bullet: Galaxy Evolution Seminar of Eva K. Grebel group in University of Heidelberg; 2025/07/16 - Oral Presentation
+      - bullet: IAU Symposium 398/MODEST-25; Seoul, South Korea; 2025/06/15-2025/06/20 - Contrabuted Presentation
+      - bullet: 2025 XJTLU Postgraduate Research Symposium; Suzhou, China; 2025/03/19-2025/03/21 - Oral and Poster Presentation
+      - bullet: Structural, Formation and Evolution of Clusters 2024 Annual Symposium; Hangzhou, China; 2025/04/26-2025/04/29 - Contrabuted Presentation
+    Awards:
+      - bullet: Best Oral Presentation Award - 2nd XJTU-XJTLU-UoL Doctoral Wisdom Convergence Camp (2026-04)
+      - bullet: Best Poster Presentation Award - XJTLU Postgraduate Research Symposium (2026-03)
+      - bullet: Excellent Oral and Poster Presentation Awards - XJTLU Postgraduate Research Symposium (2025-03)
+      - bullet: Deans List - Nazarbayev University (2023-09)
+
     skills:
       - label: Languages
-        details: Python, C++, CUDA, Rust, Julia
+        details: Python, C/C++, HTML/CSS, Fortran
       - label: ML Frameworks
-        details: PyTorch, JAX, TensorFlow, Triton, ONNX
-      - label: Infrastructure
-        details: Kubernetes, Ray, distributed training, AWS, GCP
+        details: PyTorch, TensorFlow
+      # - label: Infrastructure
+      #   details: Kubernetes, Ray, distributed training, AWS, GCP
       - label: Research Areas
-        details: Neural architecture search, model compression, efficient inference, multi-agent RL
-    patents:
-      - number: Adaptive Quantization for Neural Network Inference on Edge Devices (US Patent 11,234,567)
-      - number: Dynamic Sparsity Patterns for Efficient Transformer Attention (US Patent 11,345,678)
-      - number: Hardware-Aware Neural Architecture Search Method (US Patent 11,456,789)
-    invited_talks:
-      - reversed_number: Scaling Laws for Efficient Inference — Stanford HAI Symposium (2024)
-      - reversed_number: Building AI Infrastructure for the Next Decade — TechCrunch Disrupt (2024)
-      - reversed_number: 'From Research to Production: Lessons in ML Systems — NeurIPS Workshop (2023)'
-      - reversed_number: "Efficient Deep Learning: A Practitioner's Perspective — Google Tech Talk (2022)"
+        details: Astrophysics, Physics, Data Science, High-Performance Computing
+    # patents:
+    #   - number: Adaptive Quantization for Neural Network Inference on Edge Devices (US Patent 11,234,567)
+    #   - number: Dynamic Sparsity Patterns for Efficient Transformer Attention (US Patent 11,345,678)
+    #   - number: Hardware-Aware Neural Architecture Search Method (US Patent 11,456,789)
+      # - reversed_number: Scaling Laws for Efficient Inference — Stanford HAI Symposium (2024)
+      # - reversed_number: Building AI Infrastructure for the Next Decade — TechCrunch Disrupt (2024)
+      # - reversed_number: 'From Research to Production: Lessons in ML Systems — NeurIPS Workshop (2023)'
+      # - reversed_number: "Efficient Deep Learning: A Practitioner's Perspective — Google Tech Talk (2022)"
 design:
   theme: classic
   # page:

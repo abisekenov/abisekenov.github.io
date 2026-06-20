@@ -124,38 +124,39 @@ Abylay Bissekenov, Mukhagali Kalambay, Ernazar Abdikamalov, Xiaoying Pang, Peter
 
 
 
-# Selected Honors
-- MIT Technology Review 35 Under 35 Innovators (2024)
+# Conferences and Talks
+- European Astronomical Society Annual Meeting 2026; Lausanne, Switzerland; 2026/06/29-2026/07/04 - K-Poster Presentation
 
-- Forbes 30 Under 30 in Enterprise Technology (2024)
+- 1st Silk Road Conference; Tashkent, Uzbekistan; 2026/05/18-2026/05/22 - Contrabuted Presentation
 
-- ACM Doctoral Dissertation Award Honorable Mention (2023)
+- Structural, Formation and Evolution of Clusters 2026 Annual Symposium; Nanjing, China;2026/04/22-2026/04/26 - Contrabuted Presentation
 
-- Google PhD Fellowship in Machine Learning (2020 – 2023)
+- 2nd XJTU-XJTLU-UoL Doctoral Wisdom Convergence Camp; Xi'an, China; 2026/04/17-2026/04/19 - Oral Presentation
 
-- Fulbright Scholarship for Graduate Studies (2018)
+- 2026 XJTLU Postgraduate Research Symposium; Suzhou, China; 2026/03/19-2026/03/20 - Oral and Poster Presentation
+
+- Informal Presentation at Max Plank Institute of Astronomy, 2025/07/29 - Oral Presentation
+
+- Galaxy Evolution Seminar of Eva K. Grebel group in University of Heidelberg; 2025/07/16 - Oral Presentation
+
+- IAU Symposium 398/MODEST-25; Seoul, South Korea; 2025/06/15-2025/06/20 - Contrabuted Presentation
+
+- 2025 XJTLU Postgraduate Research Symposium; Suzhou, China; 2025/03/19-2025/03/21 - Oral and Poster Presentation
+
+- Structural, Formation and Evolution of Clusters 2024 Annual Symposium; Hangzhou, China; 2025/04/26-2025/04/29 - Contrabuted Presentation
+
+# Awards
+- Best Oral Presentation Award - 2nd XJTU-XJTLU-UoL Doctoral Wisdom Convergence Camp (2026-04)
+
+- Best Poster Presentation Award - XJTLU Postgraduate Research Symposium (2026-03)
+
+- Excellent Oral and Poster Presentation Awards - XJTLU Postgraduate Research Symposium (2025-03)
+
+- Deans List - Nazarbayev University (2023-09)
 
 # Skills
-**Languages:** Python, C++, CUDA, Rust, Julia
+**Languages:** Python, C/C++, HTML/CSS, Fortran
 
-**ML Frameworks:** PyTorch, JAX, TensorFlow, Triton, ONNX
+**ML Frameworks:** PyTorch, TensorFlow
 
-**Infrastructure:** Kubernetes, Ray, distributed training, AWS, GCP
-
-**Research Areas:** Neural architecture search, model compression, efficient inference, multi-agent RL
-
-# Patents
-1. Adaptive Quantization for Neural Network Inference on Edge Devices (US Patent 11,234,567)
-
-1. Dynamic Sparsity Patterns for Efficient Transformer Attention (US Patent 11,345,678)
-
-1. Hardware-Aware Neural Architecture Search Method (US Patent 11,456,789)
-
-# Invited Talks
-1. Scaling Laws for Efficient Inference — Stanford HAI Symposium (2024)
-
-1. Building AI Infrastructure for the Next Decade — TechCrunch Disrupt (2024)
-
-1. From Research to Production: Lessons in ML Systems — NeurIPS Workshop (2023)
-
-1. Efficient Deep Learning: A Practitioner's Perspective — Google Tech Talk (2022)
+**Research Areas:** Astrophysics, Physics, Data Science, High-Performance Computing
