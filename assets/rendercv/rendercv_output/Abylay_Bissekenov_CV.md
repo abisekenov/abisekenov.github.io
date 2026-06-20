@@ -2,7 +2,7 @@
 
 - Email: [abylay.bissekenov22@student.xjtlu.edu.cn](mailto:abylay.bissekenov22@student.xjtlu.edu.cn)
 - Location: Suzhou, China
-- Website: [abissekenov@github.io](https://abissekenov@github.io/)
+- Website: [abisekenov.github.io](https://abisekenov.github.io/)
 - LinkedIn: [Abylay Bissekenov](https://linkedin.com/in/Abylay Bissekenov)
 - GitHub: [abisekenov](https://github.com/abisekenov)
 
