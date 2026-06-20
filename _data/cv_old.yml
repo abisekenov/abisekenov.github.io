@@ -1,0 +1,255 @@
+cv:
+  name: Abylay Bissekenov
+  label: PhD Candidate, Master of Science of Physics
+  email: abylay.bissekenov22@student.xjtlu.edu.cn
+  location: Suzhou, Jiangsu province, China
+  image: ""
+  summary: A Kazakh astrophysicist and data scientist specializing in N-body simulations, high-performance computing and machine learning (ML).
+
+  social_networks:
+    - network: X
+      username: AlbertEinstein
+    - network: GitHub
+      username: example
+    - network: 
+      username: example
+
+  #address:
+  #  street: 2712 Broadway St
+  #  city: San Francisco
+  #  region: California
+  #  postalCode: CA 94115
+  #  countryCode: US
+
+  sections:
+    Education:
+      - institution: Xi'an Jiaotong-Liverpool University
+        location: Suzhou, China
+        url: https://www.xjtlu.edu.cn/
+        area: Physics
+        studyType: PhD
+        start_date: 2024
+        end_date: 2026
+        #score: ""
+        #courses: "Theory of Relativity"
+        #highlights:
+        #  - Description 1.
+        #  - Description 2.
+
+      - institution: Nazarbayev University
+        location: Astana, Kazakhstan
+        url: https://nu.edu.kz/
+        area: Physics
+        studyType: Master's degree
+        #studyType: Federal teaching diploma
+        start_date: 2021
+        end_date: 2023
+        score: "3.5/4.0"
+        #highlights:
+        #  - Description 1.
+        #  - Description 2.
+
+      - institution: Aktobe Regional State University
+        location: Aktobe, Kazakhstan
+        url: https://zhubanov.edu.kz/
+        area: Physics
+        studyType: Bachelor's degree
+        # studyType: Federal teaching diploma
+        start_date: 2016
+        end_date: 2020
+        score: "3.64/4.0"
+        #highlights:
+        #  - Description 1.
+        #  - Description 2.
+
+    Experience:
+      - company: Xi'an Jiaotong-Liverpool University
+        position: Research Assistant
+        location: Suzhou, China
+        start_date: Mar 2024 
+        end_date: Dec 2026
+        #highlights:
+        #  - Description 1.
+        #  - Description 2.
+
+      - company: Xi'an Jiaotong-Liverpool University
+        position: Teaching Assistant
+        location: Suzhou, China
+        start_date: Mar 2024 
+        end_date: Jun 2026
+        #highlights:
+        #  - Description 1.
+        #  - Description 2.
+
+      - company: Energetic Cosmos Laboratory, Nazarbayev University
+        position: Research Assistant
+        location: Astana, Kazakhstan
+        start_date: Jun 2022
+        end_date: Dec 2024
+        summary: Worked under supervision of Bekdaulet Shukirgaliyev and Ernazar Abdikamalov on applications of ML techniques on N-body simulations.
+        #highlights:
+        #  - Relativity
+        #  - Description 2.
+
+    #Volunteer:
+    #  - company: People's Climate March
+    #    position: Lead Organizer
+        # location: Zurich, Switzerland
+        # start_date: 2014-04-01
+        # end_date: 2015-07-01
+        # summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+        # highlights:
+        #   - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+        #   - "Men of the year 2014 by Time magazine"
+
+    Presentations:
+      - title: European Astronomical Society Annual Meeting 2026 
+        date: June 29 – July 4, 2026
+        location: Lausanne, Switzerland
+        summary: ePoster presentation
+
+      - title: 1st Silk Road Conference
+        date: May 18 – 22, 2026
+        location: Tashkent, Uzbekistan
+        summary: Contributed Talk
+
+      - title: Structural, Formation and Evolution of Clusters 2026 Annual Symposium
+        date: April 22 – 26, 2026
+        location: Nanjing, China
+        summary: Contributed Talk  
+
+    Awards:
+      - title: Best Oral Presentation Award
+        authors:
+         - "Second XJTU-XJTLU-UoL Doctoral Wisdom Convergence Camp"
+        date: Apr 2026
+        awarder: Xi'an Jiaotong University
+        # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        summary: The XJTU-XJTLU-UoL Doctoral Wisdom Convergence Camp is an annual interdisciplinary academic event co-hosted by Xi'an Jiaotong-Liverpool University (XJTLU), Xi'an Jiaotong University (XJTU), and the University of Liverpool
+
+      - title: Best Poster Presentation Award
+        authors:
+         - "2026 XJTLU Postgraduate Research Symposium"
+        date: Mar 2026
+        awarder: Xi'an Jiaotong-Liverpool University
+        # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        summary: 2026 XJTLU Postgraduate Research Symposium is an academic event since 2019, providing a forum for exchanging and discussing research ideas among doctoral researchers from a wide range of disciplinary areas. 
+
+      - title: Excellent Oral and Poster Presentation Awards
+        authors:
+         - "2025 XJTLU Postgraduate Research Symposium"
+        date: Mar 2025
+        awarder: Xi'an Jiaotong-Liverpool University
+        # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        summary: 2025 XJTLU Postgraduate Research Symposium is an academic event since 2019, providing a forum for exchanging and discussing research ideas among doctoral researchers from a wide range of disciplinary areas. 
+
+      - title: Deans List
+        # authors:
+        #   - "German Physical Society"
+        date: Sep 2023
+        awarder: Nazarbayev University
+        summary: Abylay Bissekenov has been named to the Deans List for his academmic excellence in coursework at the School of Sciences and Humanities, Nazarbayev University
+
+      - title: Master's degree with honors
+        #authors:
+        #  - "Royal Swedish Academy of Sciences"
+        date: Jun 2023
+        awarder: Nazarbayev University
+        # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        # summary: Master'
+
+    Publications:
+      - title: Cluster membership analysis with supervised learning and N-body simulations 
+        authors:
+          - Abylay Bissekenov
+          - Mukhagali Kalambay 
+          - Ernazar Abdikamalov
+          - Xiaoying Pang
+          - Peter Berczik
+          - Bekdaulet Shukirgaliyev
+        publisher: Astronomy and Astrophysics
+        releaseDate: Sep 2024
+        url: https://ui.adsabs.harvard.edu/abs/2024A&A...689A.282B
+        summary: In this paper, we have applied supervised ML algorithms on N-body simulations for membership analysis of star clusters. Random forest model trained on simulations proved to be capable of obtaining membership with good completeness just by astrometric features. 
+
+      - title: Evolution of star clusters with initial bulk rotation via N-body simulations 
+        authors:
+          - Abylay Bissekenov
+          - Xiaoying Pang
+          - Kamlah Albrecht
+          - M. B. N. Kouwenhoven
+          - Rainer Spurzem
+          - Bekdaulet Shukirgaliyev
+          - Mirek Giersz
+          - Abbas Askar
+          - Peter Berczik
+        publisher: Astronomy and Astrophysics
+        releaseDate: Jul 2025
+        url: https://ui.adsabs.harvard.edu/abs/2025A&A...699A.196B
+        summary: In this paper, we have combined Fokker-Plank initial models with N-body simulations in order to simulate clusters with initial bulk rotation. Dynamic evolution of these clusters significantly differ from models without initial rotation with development of bar like structure. The morphology of the models were also compared to 93 observed open clusters.
+
+      - title: Formation and Disruption of Wide Binaries in Star Clusters Revealed by N-body Simulations
+        authors:
+          - Abylay Bissekenov
+          - Xiaoying Pang
+          - Rainer Spurzem
+          - Bekdaulet Shukirgaliyev
+          - Mukhagali Kalambay 
+          - Peter Berczik
+        publisher: The Astrophysical Journal Letters
+        releaseDate: Apr 2026
+        url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1001L..33B
+        summary: Continuation of a second paper, but instead of using only hard binaries, we also added soft binaries that tend to be wide. The simulations showed high number of dynamic disruptions and formations of wide binaries. We proposed 2 semi-analytical models of wide binary evolution in star clusters. 
+      # - name: Physics
+        # level: Master
+        # icon: fa-solid fa-hashtag
+        # keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+
+    Languages:
+      - name: Kazakh
+        summary: "Native speaker"
+
+      - name: English
+        summary: "Fluent"
+
+      - name: Russian
+        summary: "Fluent"
+
+    Interests:
+      - name: Physics
+        icon: fa-solid fa-tag
+        keywords: "Astrophysics, Star clusters, Dynamic evolution, Galaxies"
+
+    # Certificates:
+    #   - name: Machine Learning
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-location-dot
+
+    #   - name: Quantum Computing
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-tag
+
+    #   - name: Quantum Information
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-envelope
+
+    # Projects:
+    #   - name: Quantum Computing
+    #     summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+    #     highlights:
+    #       - Quantum Teleportation
+    #       - Quantum Cryptography
+    #     start_date: 2018-01-01
+    #     end_date: 2018-01-01
+
+    # References:
+    #   - name: Xiaoying Pang
+    #     icon: fa-solid fa-laptop
+    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+
+    #   - name: Professor Jane Smith
+    #     icon: fa-solid fa-thumbtack
+    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
