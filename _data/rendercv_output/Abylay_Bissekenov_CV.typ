@@ -158,7 +158,7 @@
   [
     Aktobe, Kazakhstan
 
-    Aug 2021 – June 2023
+    Sept 2016 – July 2020
 
   ],
   degree-column: [
