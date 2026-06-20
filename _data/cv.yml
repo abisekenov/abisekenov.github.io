@@ -101,7 +101,28 @@ cv:
         #   - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
         #   - "Men of the year 2014 by Time magazine"
 
-    Talks and Presentations:
+    Talks/Presentations/Visits:
+      - title: European Astronomical Society Annual Meeting 2026 
+        start_date: June 29, 2026
+        end_date: July 4, 2026
+        location: Laussane, Switzerland
+        type: ePoster
+      
+      - title: 1st Silk Road Conference
+        start_date: May 18, 2026
+        end_date: May 22, 2026
+        location: Tashkent, Uzbekistan
+        type: Contributed Talk
+
+      - title: Structural, formation and Evolution of Clusters 2026 Annual Symposium
+        start_date: Apr 22, 2026
+        end_date: Apr 26, 2026
+        location: Nanjing, China
+        type: Contributed Talk  
+
+          
+
+      
 
     Awards:
       - title: Master's degree with honors
