@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: All that is gold does not glitter, not all those who wander are lost
+subtitle: I'm Abylay Bissekenov, you can call me Abba.
 
 profile:
   align: right
@@ -27,8 +27,6 @@ social: true # includes social icons at the bottom of the page
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog posts
 ---
-
-I'm Abylay Bissekenov, you can call me Abba.
 
 I am a researcher and astrophysicist interested in N-body simulations, high-performance computing, and ML. Currently, obtaining my PhD degree in Physics at Xi'an Jiaotong-Liverpool University. I hold a Master's degree from Nazarbayev University and a Bachelor's degree from K. Zhubanov Aktobe Regional State University (currently Herriot-Watt and Zhubanov University).
 
