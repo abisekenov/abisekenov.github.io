@@ -32,8 +32,6 @@ I am a researcher and astrophysicist interested in N-body simulations, high-perf
 
 Currently, obtaining my PhD degree in Physics at Xi'an Jiaotong-Liverpool University. I hold a Master's degree from Nazarbayev University and a Bachelor's degree from K. Zhubanov Aktobe Regional State University (currently Herriot-Watt and Zhubanov University).
 
-Feel free to message me on any inquiries from available socials.
-
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->

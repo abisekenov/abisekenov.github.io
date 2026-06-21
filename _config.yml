@@ -7,7 +7,7 @@ first_name: Abylay
 middle_name: 
 last_name: Bissekenov
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Feel free to message me on any inquiries from available socials.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of an astrophysicist and researcher Abylay Bissekenov 
 footer_text: >
@@ -341,8 +341,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Bissekenov]
+  first_name: [Abylay]
 
   style: apa
   locale: en
@@ -457,9 +457,9 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_verification: false # enables google site verification
-enable_bing_verification: false # enables bing site verification
-enable_cookie_consent: false # enables GDPR-compliant cookie consent dialog (https://github.com/orestbida/cookieconsent)
+enable_google_verification: true # enables google site verification
+enable_bing_verification: true # enables bing site verification
+enable_cookie_consent: true # enables GDPR-compliant cookie consent dialog (https://github.com/orestbida/cookieconsent)
 enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
