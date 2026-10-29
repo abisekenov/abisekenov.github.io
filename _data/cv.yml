@@ -23,8 +23,9 @@ cv:
         #score: ""
         #courses: "Theory of Relativity"
         highlights:
-         - Expected graduation at the end of 2026.
-         - Upon delays, the CV would be updated
+         - Thesis have been submitted on 27th of October
+         - Expected defence in November
+         - Diploma is expected by July of 2027
 
       - institution: Nazarbayev University
         location: Astana, Kazakhstan
@@ -68,7 +69,7 @@ cv:
         start_date: 2024-03 
         end_date: 2026-06
         highlights:
-          - Over 500 hours of TAship experience
+          - Over 450 hours of TAship experience
         #  - Description 2.
 
       - company: Energetic Cosmos Laboratory
