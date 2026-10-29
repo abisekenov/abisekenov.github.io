@@ -171,7 +171,7 @@ Abylay Bissekenov, Mukhagali Kalambay, Ernazar Abdikamalov, Xiaoying Pang, Peter
 - Deans List - Nazarbayev University (2023-09)
 
 # Skills
-**Languages:** Kazakh, English, Russian
+**Languages:** Kazakh (native), English (C1), Russian (C1)
 
 **Programming Languages:** Python, C/C++, HTML/CSS, Fortran
 
