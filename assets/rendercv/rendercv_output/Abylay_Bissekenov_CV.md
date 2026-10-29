@@ -1,6 +1,6 @@
 # Abylay Bissekenov's CV
 
-- Email: [abylay.bissekenov22@student.xjtlu.edu.cn](mailto:abylay.bissekenov22@student.xjtlu.edu.cn)
+- Email: [abylaybissekenov@gmail.com](mailto:abylaybissekenov@gmail.com)
 - Location: Suzhou, China
 - Website: [abisekenov.github.io](https://abisekenov.github.io/)
 - LinkedIn: [Abylay Bissekenov](https://linkedin.com/in/Abylay Bissekenov)
@@ -18,9 +18,11 @@ Suzhou, China
 
 Mar 2024 – Dec 2026
 
-- Expected graduation at the end of 2026.
+- Thesis have been submitted on 27th of October
 
-- Upon delays, the CV would be updated
+- Expected defence in November
+
+- Diploma is expected by July of 2027
 
 
 
@@ -65,7 +67,7 @@ Mar 2024 – present
 
 
 
-2 years 4 months
+2 years 9 months
 
 
 
@@ -79,7 +81,7 @@ Mar 2024 – June 2026
 
 2 years 4 months
 
-- Over 500 hours of TAship experience
+- Over 450 hours of TAship experience
 
 
 
@@ -169,7 +171,9 @@ Abylay Bissekenov, Mukhagali Kalambay, Ernazar Abdikamalov, Xiaoying Pang, Peter
 - Deans List - Nazarbayev University (2023-09)
 
 # Skills
-**Languages:** Python, C/C++, HTML/CSS, Fortran
+**Languages:** Kazakh, English, Russian
+
+**Programming Languages:** Python, C/C++, HTML/CSS, Fortran
 
 **ML Frameworks:** PyTorch, TensorFlow
 
